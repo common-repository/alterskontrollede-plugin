@@ -1,0 +1,32 @@
+.ak_sc_dashicons {
+  font-family: 'dashicons' !important;
+  font-size:20px !important;
+  color:#d51314 !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+}
+
+ .ak_sc_dashicons-secure:before {
+  content: "\f160";
+}
+
+.ak-plugin .table { display:table; }
+.ak-plugin .tr { display:table-row; }
+.ak-plugin .td { display:table-cell; vertical-align:middle; }
+
+.ak-plugin .tor-tpl img { width:100%; height:auto; }
+
+.ak-plugin .ak_main { margin-bottom:0 !important; }
+
+.ak_plugin_message { background:#FFF6BF; color:#666; border:#FFD324 1px solid; font-size:14px; padding:10px; margin-bottom:20px; }
+
+.ak-plugin-second { display:none !important; }
+
+@media all and (min-width: 1480px) {
+  .ak-plugin-second { display:table-cell !important; }
+}
